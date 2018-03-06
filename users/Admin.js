@@ -1,0 +1,1 @@
+﻿profname='Admin';proftitle='Бог Котиков';profava='../img/noava.png';profinfo='Ололо';

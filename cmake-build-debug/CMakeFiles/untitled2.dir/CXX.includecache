@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Emerael/Desktop/untitled2/logins.h
+map
+-
+
+C:/Users/Emerael/Desktop/untitled2/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+map
+-
+logins.h
+C:/Users/Emerael/Desktop/untitled2/logins.h
+string
+-
+WinSock2.h
+-
+WS2tcpip.h
+-
+lm.h
+-
+
